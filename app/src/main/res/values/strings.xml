@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SOFE4640U_Assignment_1</string>
+    <string name="sixSlice">Round Pizza 6 slices - serves 3 people ($5.50)</string>
+    <string name="eightSlice">Round Pizza 8 slices - serves 4 people ($7.99)</string>
+    <string name="tenSlice">Round Pizza 10 slices - serves 5 people ($9.50)</string>
+    <string name="twelveSlice">Round Pizza 12 slices - serves 6 people ($11.38)</string>
+
+    <string-array name="toppings">
+        <item>No Toppings</item>
+        <item>Mushroom($5)</item>
+        <item>Sun Dried Tomatoes($5)</item>
+        <item>Chicken($7)</item>
+        <item>Ground Beef($8)</item>
+        <item>Shrimps($5)</item>
+        <item>Pineapple($5)</item>
+        <item>Steak($9)</item>
+        <item>Avocado($5)</item>
+        <item>Tuna($5)</item>
+        <item>Broccoli($8)</item>
+        <item>Peperoni($5)</item>
+        <item>Bacon($6)</item>
+        <item>Green Peppers($5)</item>
+    </string-array>
+    <string name="title_activity_order_review">OrderReview</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
